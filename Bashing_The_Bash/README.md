@@ -9,6 +9,7 @@ This series is an introduction to bash in a more fun way where we will write som
 ## Season 1
 ### Episode 0
 [![Episode 0 youtube](https://img.youtube.com/vi/AK7QXBP4olE/0.jpg)](https://www.youtube.com/watch?v=AK7QXBP4olE)
+
 Just an intro to the series and how I setup my Ubuntu VM.
 ### Episode 1
 We create a shortcut script [cs](https://github.com/ArtiomSu/YouTube/tree/master/Bashing_The_Bash/cs) for cd part 1
