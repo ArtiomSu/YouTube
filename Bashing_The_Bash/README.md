@@ -16,5 +16,7 @@ Just an intro to the series and how I setup my Ubuntu VM.
 
 We create a shortcut script [cs](https://github.com/ArtiomSu/YouTube/tree/master/Bashing_The_Bash/cs) for cd part 1
 ### Episode 2
+[![Episode 2 youtube](https://img.youtube.com/vi/bx9vpaN6eKU/0.jpg)](https://www.youtube.com/watch?v=bx9vpaN6eKU)
+
 We finish off [cs](https://github.com/ArtiomSu/YouTube/tree/master/Bashing_The_Bash/cs)
 
