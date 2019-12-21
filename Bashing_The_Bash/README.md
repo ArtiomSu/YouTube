@@ -10,7 +10,7 @@ This series is an introduction to bash in a more fun way where we will write som
 ### [Episode 0](https://youtu.be/AK7QXBP4olE)
 Just an intro to the series and how I setup my Ubuntu VM.
 ### [Episode 1]()
-We create a shortcut script [cs]() for cd part 1
+We create a shortcut script [cs](https://github.com/ArtiomSu/YouTube/tree/master/Bashing_The_Bash/cs) for cd part 1
 ### [Episode 2]()
-We finish off [cs]()
+We finish off [cs](https://github.com/ArtiomSu/YouTube/tree/master/Bashing_The_Bash/cs)
 
