@@ -19,4 +19,19 @@ We create a shortcut script [cs](https://github.com/ArtiomSu/YouTube/tree/master
 [![Episode 2 youtube](https://img.youtube.com/vi/bx9vpaN6eKU/0.jpg)](https://www.youtube.com/watch?v=bx9vpaN6eKU)
 
 We finish off [cs](https://github.com/ArtiomSu/YouTube/tree/master/Bashing_The_Bash/cs)
+### Episode 3 | xfce4 wallpaper changer script - arrays - randomness - Bash Beginner tutorial!
+[![Episode 3 youtube](https://img.youtube.com/vi/elUVNS7egP8/0.jpg)](https://www.youtube.com/watch?v=elUVNS7egP8)
 
+create a fun script for changing wallpaper [wall.sh](https://github.com/ArtiomSu/YouTube/tree/master/Bashing_The_Bash/wall.sh)
+
+
+This script supports random wallpaper changing by running `./wall.sh -r`
+
+
+Setting you own with `./wall.sh /path/to/your/image`
+
+
+Looping of wallpapers with `./wall.sh -l`
+
+
+And infinite looping with `./wall.sh -dead`
